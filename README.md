@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+osama+lmezouari!;" />
 </h1>
 
-<h3 align="center">Hello, I'm Oussama, a Full-stack developer on the path to specializing in React. I'm dedicated to refining my skills and crafting proficient web applications with a growing expertise in front-end technologies.</h3>
+<h3 align="center" letter-spacing="2px">Hello, I'm Oussama, a Full-stack developer on the path to specializing in React. I'm dedicated to refining my skills and crafting proficient web applications with a growing expertise in front-end technologies.</h3>
 
 <br/>
 
