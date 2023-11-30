@@ -1,4 +1,7 @@
-<img align="right" src="https://icons8.com/icon/t5K2CR8feVdX/react" width="70" height="70" />
+<a href="YOUR_GITHUB_PROFILE_URL">
+  <img align="right" src="https://img.icons8.com/color/452/react.png" width="70" height="70" />
+</a>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+osama+lmezouari!;" />
