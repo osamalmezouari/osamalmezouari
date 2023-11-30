@@ -1,5 +1,5 @@
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px" align="left" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px" align="right" />
 
 
 <h1 align="center">
