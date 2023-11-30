@@ -14,7 +14,7 @@
  
  🔭 🔭 I’m currently focused on building a platform to help people find healthcare professionals.
  
- 🌱 I’m currently learning **Typescript in React**
+ 🌱 I’m currently learning **How to use Typescript in React**
 
 💬 Report repo issues here **Anything [here](https://github.com/salesp07/salesp07/issues)**
 
