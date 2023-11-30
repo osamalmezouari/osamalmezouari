@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **typescript in React**
 
-💬 Ask me about **anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 report repo issues here **anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Proficient in French and English, fluent in Arabic, and basic proficiency in Dutch.**
 
