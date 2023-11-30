@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,sass,tailwind,javascript,typescript,react,php,mysql" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,lunix,space,jetbrains,vscode,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,vite" /><br>
 </div>
 
 <br/>
