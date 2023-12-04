@@ -52,6 +52,7 @@
 <div align=center>
     <img width=390 height="200px" src="https://github-readme-stats.vercel.app/api?username=osamalmezouari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/>
     [![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamalmezouari&layout=compact&theme=react&border_radius=10)](https://github.com/osamalmezouari)
+     <img width=390 height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamalmezouari&layout=compact&theme=react&border_radius=10" alt="readme stats" />
 
 
 </div>
