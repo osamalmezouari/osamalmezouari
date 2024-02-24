@@ -14,7 +14,7 @@
  
  🔭 I’m currently focused on building a platform to help people find healthcare professionals.
  
- 🌱 I’m currently learning **Redux toolkit in React**
+ 🌱 I’m currently learning **Nest JS**
 
 💬 Report repo issues here **Anything [here](https://github.com/salesp07/salesp07/issues)**
 
