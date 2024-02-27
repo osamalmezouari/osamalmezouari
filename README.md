@@ -9,18 +9,6 @@
 <h3 align="left" letter-spacing="4px">Full-stack developer on the path to specializing in React. I'm dedicated to refining my skills and crafting proficient web applications with a growing expertise in front-end technologies.</h3>
 
 <br/>
-
-<div align="left">
- 
- 🔭 I’m currently focused on building a platform to help people find healthcare professionals.
- 
- 🌱 I’m currently learning **Nest JS**
-
-💬 Report repo issues here **Anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact *Proficient in **French** and **English**, fluent in **Arabic**, and basic proficiency in **Dutch***
-
- </div>
  
 <div align="center"> 
   <a href="mailto:oussamalm147@gmail.com">
@@ -45,13 +33,3 @@
 </div>
 
 <br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<div align=center>
-    <img width=390 height="200px" src="https://github-readme-stats.vercel.app/api?username=osamalmezouari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/>
-     <img width=390 height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamalmezouari&layout=compact&theme=react&border_radius=10" alt="readme stats" />
-
-
-</div>
